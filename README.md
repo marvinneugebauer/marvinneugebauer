@@ -2,7 +2,7 @@
 
 
 **Skills**:
-- **Python** / **SQL** / **C++**
+- **Python** / **Django** / **SQL** / **C++**
 - **Numpy** /**Pandas** /**Matplotlib** /**Seaborn** / **Pytorch**
 
 - 🔭 I’m currently working on a **machine learning project** 
