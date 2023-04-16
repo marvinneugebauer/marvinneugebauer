@@ -3,7 +3,7 @@
 
 **Skills**:
 - **Python**/ **SQL** 
-- **Numpy** /**Pandas** /**Matplotlib** /**Seaborn** / **SciKit Learn**
+- **Numpy** /**Pandas** /**Matplotlib** /**Seaborn** / **SciKit-Learn**
 
 - 🔭 I’m currently working on a **machine learning project** 
 - 🌱 I’m currently learning **deep learning** 
